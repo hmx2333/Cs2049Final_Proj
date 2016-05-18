@@ -1,0 +1,6 @@
+framework module Pods_Cs2049Final_Proj {
+  umbrella header "Pods-Cs2049Final_Proj-umbrella.h"
+
+  export *
+  module * { export * }
+}
